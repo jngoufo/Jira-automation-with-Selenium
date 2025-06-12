@@ -1,0 +1,3 @@
+Ce projet est un "framework" pour automatiser les tâches les plus courantes qu'un utilisateur de JIRA peut effectuer à partir de son interface Web. Ce framework est constitué de cas de test à base de scripts écrits à l'aide de Python. Le but de ce projet est de développer mes compétences techniques en automatisation de test. Ce framework est un hybride de "page object model" et de "Data-driven".  
+*********
+This project is a framework for automating the most common tasks a JIRA user can perform from its web interface. This framework consists of script-based test cases written using Python. The goal of this project is to develop my technical skills in test automation. This framework is a hybrid of a page object model and data-driven.
