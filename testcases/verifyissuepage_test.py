@@ -7,4 +7,4 @@ class TestIssuePage:
 
     def test_issuesdisplay(self):
         issuepage = Issuepage(self.driver)
-        issuepage.viewissue('CS\n-\n1')
+        issuepage.viewissue('TA')

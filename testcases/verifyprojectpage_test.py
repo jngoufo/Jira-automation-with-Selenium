@@ -8,6 +8,6 @@ class TestProjectPage:
 
     def test_projectdisplay(self):
         projectpage = Projectpage(self.driver)
-        projectpage.viewproject("Customer service")
+        projectpage.viewproject("Test Automation Training")
 
 
